@@ -1,0 +1,259 @@
+/*
+*
+* Tema Adı : LT-Blog
+*
+* Tasarım/Kodlama : Murat Aslan(Leon Themes)
+* 
+* Tema Yayımcısı : YazilimGunlugum.com
+*
+* Açıklama : YazılımGünlüğüm.com yazarı Murat Aslan tarafından ücretsiz olarak sunulmuş bir wordpress temasıdır.
+* 
+* Telif Hakkı: YazilimGunlugum.com adresinden başka bir adreste yayımlanması yasaktır,aksi takdirde yasal işlem başlatılacaktır.
+*/
+
+
+/* ana font : PT Sans */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i');
+body{
+  font-family: 'PT Sans', sans-serif!important;
+  margin-top: 50px!important;
+}
+#icerik_kutu{
+  margin-top: 24px!important;
+}
+#setMargin{
+  margin-top: 24px!important;
+}
+ul#cats li{
+  float: left!important;
+  margin:3px 3px!important;
+}
+#card_bg{
+  background: #536976!important;
+  background: -webkit-linear-gradient(to right, #292E49, #536976)!important;
+  background: linear-gradient(to right, #292E49, #536976)!important;
+  border: 0px!important;
+  text-align: center!important;
+  color: #fff!important;
+
+}
+#araButon{
+  margin: 0 2px!important;
+}
+.btn-primary{
+  background-color:#343c52!important;
+  border:0px!important;
+}
+a.linkWhite{
+  color:#fff!important;
+}
+.btn-primary:hover{
+  background-color:#666d80!important;
+}
+#badge-bg{
+  background: #c94b4b;
+  background: -webkit-linear-gradient(to right, #4b134f, #c94b4b)!important;
+  background: linear-gradient(to right, #4b134f, #c94b4b)!important;
+  color:#fff;
+  margin-top: 3px;
+}
+#badge-bg a{
+  color:#fff!important;
+}
+#badge-bg2{
+  background-color: #283048;
+  background-color: -webkit-linear-gradient(to right, #859398, #283048)!important;
+  background-color: linear-gradient(to right, #859398, #283048)!important;
+  padding: 4px!important;
+}
+.badge-custom{
+  background-color: #c94b4b!important;
+  background-color: -webkit-linear-gradient(to right, #4b134f, #c94b4b)!important;
+  background-color: linear-gradient(to right, #4b134f, #c94b4b)!important;
+}
+.card-header{
+  padding-top: 0.50rem!important;  
+}
+#sag{
+  float: right
+}
+.kategori_t{
+  padding: 6px!important;
+  font-size: 16px!important;
+  margin-bottom: 3px!important;
+}
+.icerik_ozet{
+  margin-top: 10px!important;
+}
+.card-title{
+  font-size:20px!important;
+  font-weight: bold!important;
+}
+a#author_uri{
+  color:#fa9e9e!important;
+}
+a:hover{
+  color:#ccc!important;
+}
+.soundcloud{
+  padding: 0px!important;
+}
+.cat{
+  font-size: 99%!important;
+}
+#icon-hizala{
+  margin-top: 4px!important;
+}
+#card_bg{
+
+}
+/*
+*
+* Tema Adı : LT-Blog
+*
+* Tasarım/Kodlama : Murat Aslan(Leon Themes)
+* 
+* Tema Yayımcısı : YazilimGunlugum.com
+*
+* Açıklama : YazılımGünlüğüm.com yazarı Murat Aslan tarafından ücretsiz olarak sunulmuş bir wordpress temasıdır.
+* 
+* Telif Hakkı: YazilimGunlugum.com adresinden başka bir adreste yayımlanması yasaktır,aksi takdirde yasal işlem başlatılacaktır.
+*/
+.bg-dark {
+  background-color: #31363f!important;
+}
+.footer-bg-dark{
+  background-color: #101215;
+}
+#round_img{
+  border-radius: 30px!important;
+  object-fit: cover!important
+}
+#pop_more{
+  margin-left: 8px!important;
+  margin-top: -8px!important;
+  font-size: 13px!important;
+}
+#pop_title{
+  margin-left: 8px!important;
+  font-size:19px!important;
+  font-weight: bold!important;
+}
+#sep{
+  width: 25%!important;
+  height: 0px!important;
+  border:1px solid #ccc!important;
+  margin:10px 0!important;
+}
+#icon-margin{
+  margin: 5px 3px!important;
+}
+.pop_more_footer{
+  color:#ccc!important;
+}
+#footer_pop{
+  color:#fff!important;
+}
+#pop_sidebar{
+  color:#000!important;
+}
+#footer_alt{
+  background-color: #17181a!important;
+}
+#setColor{
+  color:#ccc!important;
+}
+#cats>li>a:hover{
+  text-decoration: underline!important;
+}
+#cat_set{
+  color: #fff!important;
+}
+
+* {
+  box-sizing: border-box!important;
+}
+
+a, a:hover {
+  -webkit-transition: .25s color linear!important;
+  transition: .25s color linear!important;
+}
+
+article time, article:hover time,
+.icon-rocknroll, .like-count {
+  -webkit-transition: .25s opacity linear!important;
+  transition: .25s opacity linear!important;
+}
+
+#linkBlack{
+  color:#000!important;
+}
+.badge-info{
+  background: #283048!important;
+  background: -webkit-linear-gradient(to right, #859398, #283048)!important;
+  background: linear-gradient(to right, #859398, #283048)!important;
+}
+#navbar-set-top { margin-top: 31px !important;}
+@media (max-width: 767px){
+  #navbar-set-top { margin-top: 44px !important;}
+}
+@media (max-width: 600px){
+  #navbar-set-top { margin-top: 0px !important;}
+}
+.img-post{
+  min-width: 749px;
+  min-height: 299px;
+  max-width: 750px;
+  max-height: 300px;
+  object-fit: cover!important;
+}
+/*
+*
+* Tema Adı : LT-Blog
+*
+* Tasarım/Kodlama : Murat Aslan(Leon Themes)
+* 
+* Tema Yayımcısı : YazilimGunlugum.com
+*
+* Açıklama : YazılımGünlüğüm.com yazarı Murat Aslan tarafından ücretsiz olarak sunulmuş bir wordpress temasıdır.
+* 
+* Telif Hakkı: YazilimGunlugum.com adresinden başka bir adreste yayımlanması yasaktır,aksi takdirde yasal işlem başlatılacaktır.
+*/
+.card-img-top{
+  object-fit: cover!important;
+}
+img{
+  object-fit: cover!important
+}
+div#det_container{
+  margin-top: -25px;
+  padding: 0px!important;
+}
+div#post_container{
+  padding: 0 15px;
+}
+.etiketler{
+  margin-right: 5px!important;
+}
+.img-wid{
+  height: 300px!important;
+}
+ul.pagination li.page-item{
+  border:2px solid #000;
+  padding: 7px;
+  margin:0 auto;
+}
+
+ul.pagination li.page-item a{
+  color: #000;
+  font-weight: bold;
+}
+div.textwidget{
+  color:#fff!important;
+}
+#round_img{
+  object-fit: cover!important;
+}
+div#set_cat{
+  margin-top:25px;
+}
