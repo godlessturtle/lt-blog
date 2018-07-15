@@ -15,3 +15,4 @@ Responsive Tasarım
 Sınırsız renk seçeneği
 
 Detay: https://www.efendiblog.com/2018/07/ucretsiz-wordpress-blog-temasi-indir-lt-blog.html
+Demo: http://blogtemasi.epizy.com/?i=1
