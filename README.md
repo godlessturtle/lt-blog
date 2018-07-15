@@ -1,11 +1,9 @@
 # lt-blog
-Minimal/Personel Wordpress Blog Template
+Minimal/Personal Wordpress Blog Teması
 
 
-<h1>test</h1>
+<h1>LT-Blog Wordpress Temasının Özellikleri</h1>
 
-
-LT-Blog Wordpress Temasının Özellikleri
 
 4 adet farklı widget alanları, ve bu alanlara özel widgetler.
 Tamamen yönetim panelinden özelleştirilebilir esnek yapı.
